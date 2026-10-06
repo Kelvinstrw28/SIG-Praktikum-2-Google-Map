@@ -1,0 +1,35 @@
+﻿No,Kode_Provinsi,Provinsi,Latitude,Longitude,Kelompok_Pulau
+1,11,Aceh,5.5483,95.3238,Sumatera
+2,12,Sumatera Utara,3.5952,98.6722,Sumatera
+3,13,Sumatera Barat,-0.9471,100.4172,Sumatera
+4,14,Riau,0.518,101.446,Sumatera
+5,15,Jambi,-1.604,103.584,Sumatera
+6,16,Sumatera Selatan,-2.977,104.751,Sumatera
+7,17,Bengkulu,-3.821,102.284,Sumatera
+8,18,Lampung,-5.429,105.262,Sumatera
+9,19,Kepulauan Bangka Belitung,-2.7411,106.4406,Sumatera
+10,21,Kepulauan Riau,0.2933,104.521,Sumatera
+11,31,DKI Jakarta,-6.2088,106.8456,Jawa-Bali
+12,32,Jawa Barat,-6.9022,107.6188,Jawa-Bali
+13,33,Jawa Tengah,-7.15,110.1403,Jawa-Bali
+14,34,DI Yogyakarta,-7.7956,110.3695,Jawa-Bali
+15,35,Jawa Timur,-7.5361,112.2384,Jawa-Bali
+16,36,Banten,-6.4058,106.064,Jawa-Bali
+17,51,Bali,-8.4095,115.1889,Jawa-Bali
+18,52,Nusa Tenggara Barat,-8.6529,117.3616,Indonesia Timur
+19,53,Nusa Tenggara Timur,-10.171,123.607,Indonesia Timur
+20,61,Kalimantan Barat,-0.061,109.353,Kalimantan
+21,62,Kalimantan Tengah,-2.217,113.919,Kalimantan
+22,63,Kalimantan Selatan,-3.0926,115.2838,Kalimantan
+23,64,Kalimantan Timur,0.5387,116.4194,Kalimantan
+24,65,Kalimantan Utara,3.0731,116.0414,Kalimantan
+25,71,Sulawesi Utara,1.4931,124.8413,Sulawesi
+26,72,Sulawesi Tengah,-1.43,121.4456,Sulawesi
+27,73,Sulawesi Selatan,-3.6688,119.9741,Sulawesi
+28,74,Sulawesi Tenggara,-4.1449,122.1746,Sulawesi
+29,75,Gorontalo,0.6999,122.4467,Sulawesi
+30,76,Sulawesi Barat,-2.8441,119.2321,Sulawesi
+31,81,Maluku,-3.2385,130.1453,Indonesia Timur
+32,82,Maluku Utara,1.5709,127.8088,Indonesia Timur
+33,91,Papua Barat,-0.8615,134.062,Indonesia Timur
+34,94,Papua,-4.2699,138.0804,Indonesia Timur

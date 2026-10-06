@@ -1,0 +1,240 @@
+[
+  {
+    "id": "11",
+    "name": "Aceh",
+    "lat": 5.5483,
+    "lng": 95.3238,
+    "group": "Sumatera"
+  },
+  {
+    "id": "12",
+    "name": "Sumatera Utara",
+    "lat": 3.5952,
+    "lng": 98.6722,
+    "group": "Sumatera"
+  },
+  {
+    "id": "13",
+    "name": "Sumatera Barat",
+    "lat": -0.9471,
+    "lng": 100.4172,
+    "group": "Sumatera"
+  },
+  {
+    "id": "14",
+    "name": "Riau",
+    "lat": 0.518,
+    "lng": 101.446,
+    "group": "Sumatera"
+  },
+  {
+    "id": "15",
+    "name": "Jambi",
+    "lat": -1.604,
+    "lng": 103.584,
+    "group": "Sumatera"
+  },
+  {
+    "id": "16",
+    "name": "Sumatera Selatan",
+    "lat": -2.977,
+    "lng": 104.751,
+    "group": "Sumatera"
+  },
+  {
+    "id": "17",
+    "name": "Bengkulu",
+    "lat": -3.821,
+    "lng": 102.284,
+    "group": "Sumatera"
+  },
+  {
+    "id": "18",
+    "name": "Lampung",
+    "lat": -5.429,
+    "lng": 105.262,
+    "group": "Sumatera"
+  },
+  {
+    "id": "19",
+    "name": "Kepulauan Bangka Belitung",
+    "lat": -2.7411,
+    "lng": 106.4406,
+    "group": "Sumatera"
+  },
+  {
+    "id": "21",
+    "name": "Kepulauan Riau",
+    "lat": 0.2933,
+    "lng": 104.521,
+    "group": "Sumatera"
+  },
+  {
+    "id": "31",
+    "name": "DKI Jakarta",
+    "lat": -6.2088,
+    "lng": 106.8456,
+    "group": "Jawa-Bali"
+  },
+  {
+    "id": "32",
+    "name": "Jawa Barat",
+    "lat": -6.9022,
+    "lng": 107.6188,
+    "group": "Jawa-Bali"
+  },
+  {
+    "id": "33",
+    "name": "Jawa Tengah",
+    "lat": -7.15,
+    "lng": 110.1403,
+    "group": "Jawa-Bali"
+  },
+  {
+    "id": "34",
+    "name": "DI Yogyakarta",
+    "lat": -7.7956,
+    "lng": 110.3695,
+    "group": "Jawa-Bali"
+  },
+  {
+    "id": "35",
+    "name": "Jawa Timur",
+    "lat": -7.5361,
+    "lng": 112.2384,
+    "group": "Jawa-Bali"
+  },
+  {
+    "id": "36",
+    "name": "Banten",
+    "lat": -6.4058,
+    "lng": 106.064,
+    "group": "Jawa-Bali"
+  },
+  {
+    "id": "51",
+    "name": "Bali",
+    "lat": -8.4095,
+    "lng": 115.1889,
+    "group": "Jawa-Bali"
+  },
+  {
+    "id": "52",
+    "name": "Nusa Tenggara Barat",
+    "lat": -8.6529,
+    "lng": 117.3616,
+    "group": "Indonesia Timur"
+  },
+  {
+    "id": "53",
+    "name": "Nusa Tenggara Timur",
+    "lat": -10.171,
+    "lng": 123.607,
+    "group": "Indonesia Timur"
+  },
+  {
+    "id": "61",
+    "name": "Kalimantan Barat",
+    "lat": -0.061,
+    "lng": 109.353,
+    "group": "Kalimantan"
+  },
+  {
+    "id": "62",
+    "name": "Kalimantan Tengah",
+    "lat": -2.217,
+    "lng": 113.919,
+    "group": "Kalimantan"
+  },
+  {
+    "id": "63",
+    "name": "Kalimantan Selatan",
+    "lat": -3.0926,
+    "lng": 115.2838,
+    "group": "Kalimantan"
+  },
+  {
+    "id": "64",
+    "name": "Kalimantan Timur",
+    "lat": 0.5387,
+    "lng": 116.4194,
+    "group": "Kalimantan"
+  },
+  {
+    "id": "65",
+    "name": "Kalimantan Utara",
+    "lat": 3.0731,
+    "lng": 116.0414,
+    "group": "Kalimantan"
+  },
+  {
+    "id": "71",
+    "name": "Sulawesi Utara",
+    "lat": 1.4931,
+    "lng": 124.8413,
+    "group": "Sulawesi"
+  },
+  {
+    "id": "72",
+    "name": "Sulawesi Tengah",
+    "lat": -1.43,
+    "lng": 121.4456,
+    "group": "Sulawesi"
+  },
+  {
+    "id": "73",
+    "name": "Sulawesi Selatan",
+    "lat": -3.6688,
+    "lng": 119.9741,
+    "group": "Sulawesi"
+  },
+  {
+    "id": "74",
+    "name": "Sulawesi Tenggara",
+    "lat": -4.1449,
+    "lng": 122.1746,
+    "group": "Sulawesi"
+  },
+  {
+    "id": "75",
+    "name": "Gorontalo",
+    "lat": 0.6999,
+    "lng": 122.4467,
+    "group": "Sulawesi"
+  },
+  {
+    "id": "76",
+    "name": "Sulawesi Barat",
+    "lat": -2.8441,
+    "lng": 119.2321,
+    "group": "Sulawesi"
+  },
+  {
+    "id": "81",
+    "name": "Maluku",
+    "lat": -3.2385,
+    "lng": 130.1453,
+    "group": "Indonesia Timur"
+  },
+  {
+    "id": "82",
+    "name": "Maluku Utara",
+    "lat": 1.5709,
+    "lng": 127.8088,
+    "group": "Indonesia Timur"
+  },
+  {
+    "id": "91",
+    "name": "Papua Barat",
+    "lat": -0.8615,
+    "lng": 134.062,
+    "group": "Indonesia Timur"
+  },
+  {
+    "id": "94",
+    "name": "Papua",
+    "lat": -4.2699,
+    "lng": 138.0804,
+    "group": "Indonesia Timur"
+  }
+]
