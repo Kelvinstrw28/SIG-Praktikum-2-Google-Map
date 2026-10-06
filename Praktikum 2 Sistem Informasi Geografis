@@ -1,0 +1,32 @@
+# Praktikum 2 Sistem Informasi Geografis
+
+## Menggunakan Layer pada Aplikasi Google Map
+
+Praktikum ini dilakukan untuk memahami penggunaan layer pada Google Map
+dalam pengelolaan data geografis.
+
+### Data yang digunakan
+
+Data dibagi berdasarkan wilayah sebagai berikut:
+
+| No | Data | Keterangan |
+|---|---|---|
+| 1 | sumatera.csv | Data provinsi wilayah Sumatera |
+| 2 | jawa-bali.csv | Data provinsi wilayah Jawa-Bali |
+| 3 | kalimantan.csv | Data provinsi wilayah Kalimantan |
+| 4 | sulawesi.csv | Data provinsi wilayah Sulawesi |
+| 5 | indonesia-timur.csv | Data Maluku, Nusa Tenggara, dan Papua |
+
+### Praktikum Mandiri
+
+Data kabupaten/kota wilayah Pulau Jawa dibagi menjadi:
+
+- Jawa Barat
+- DKI Jakarta + Kepulauan Seribu
+- Banten
+- Jawa Tengah
+- DI Yogyakarta
+- Jawa Timur
+
+Data yang terdapat pada repository merupakan data hasil pengolahan
+dan perbaikan koordinat GPS pada praktikum Sistem Informasi Geografis.
